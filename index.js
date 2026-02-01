@@ -114,7 +114,7 @@ function filterUnfundedOnly() {
     addGamesToPage(unfundedGames);
 }
 
-//filterUnfundedOnly();
+filterUnfundedOnly();
 
 // show only games that are fully funded
 function filterFundedOnly() {

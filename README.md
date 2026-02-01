@@ -22,7 +22,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='/private/var/folders/_c/zt6lfr1d5035q1mgpglpn65h0000gn/T/5ec621b7c1db0cb039c8f63adb50c9d7/Kapture 2026-01-31 at 23.32.27.gif' title='Video Walkthrough (Phillipe Manio)' width='' alt='Video Walkthrough of my submission' />
+<img src='Kapture 2026-01-31 at 23.32.27.gif' title='Video Walkthrough (Phillipe Manio)' width='' alt='Video Walkthrough of my submission' />
 
 
 
