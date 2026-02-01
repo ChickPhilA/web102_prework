@@ -1,19 +1,18 @@
-# WEB102 Prework - *Name of App Here*
+# WEB102 Prework - Sea Monster's Treasures
+Submitted by: Philipe Manio
 
-Submitted by: **Your Name Here**
+Sea Monster's Treasures is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
-
-Time spent: **X** hours spent in total
+Time spent: 2 hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-* [ ] The introduction section explains the background of the company and how many games remain unfunded.
-* [ ] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
-* [ ] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
-* [ ] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
+* [✅] The introduction section explains the background of the company and how many games remain unfunded.
+* [✅] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
+* [✅] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
+* [✅] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
 
 The following **optional** features are implemented:
 
@@ -23,18 +22,15 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='/private/var/folders/_c/zt6lfr1d5035q1mgpglpn65h0000gn/T/5ec621b7c1db0cb039c8f63adb50c9d7/Kapture 2026-01-31 at 23.32.27.gif' title='Video Walkthrough (Phillipe Manio)' width='' alt='Video Walkthrough of my submission' />
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+
 
 ## Notes
 
 Describe any challenges encountered while building the app.
+
+No challenges or difficulty has been encountered during the app production.
 
 ## License
 
