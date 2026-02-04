@@ -16,21 +16,29 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [✅] List anything else that you can get done to improve the app functionality! (see below)
+
+- Center most of the text (e.g. the title at the very top of the webpage, description, header tags, etc.) to give the webpage a clean and centered-focused look
+- Create the website description in its own header container, with larger text size to emphasize the company's purpose, history, and value(s)
+- Provide a glow animation for the 3 different buttons when you hover over them
+- Provide a transition (ease-in-out type) animation for the game cards when you click over the 3 different buttons of funded, unfunded, and all games, to provide a sleek feel to the user
+- Possibly split the whole webpage into different webpages, where a navigation bar on the top lets you click to different webpages of the website, where each webpage focuses on statistics, games, mission & values, etc.
+
+The latter detailed above have not been implemented, but rather are strong features that I would integrate within my webpage to give the project a more interactive and dynamic user experience.
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
 
-<img src='Kapture 2026-01-31 at 23.32.27.gif' title='Video Walkthrough (Phillipe Manio)' width='' alt='Video Walkthrough of my submission' />
-
+(I was having a very hard time trying to create and upload my demo as a .gif, so here is my demo as a YouTube video):
+https://youtu.be/XMMlXUlvAi0
 
 
 ## Notes
 
 Describe any challenges encountered while building the app.
 
-No challenges or difficulty has been encountered during the app production.
+No challenges or difficulties have been encountered during the app production.
 
 ## License
 

@@ -86,7 +86,7 @@ const totalRaised = GAMES_JSON.reduce ( (acc, game) => {
 }, 0);
 
 // set inner HTML using template literal
-raisedCard.innerHTML = `${totalRaised.toLocaleString('en-US')}`
+raisedCard.innerHTML = `$${totalRaised.toLocaleString('en-US')}`
 console.log(totalRaised)
 
 // grab number of games card and set its inner HTML
