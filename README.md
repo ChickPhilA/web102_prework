@@ -25,10 +25,9 @@ One thing I could get done to improve app functionality is to imrpove the qualit
 
 Here's a walkthrough of implemented features:
 
-<img src='/private/var/folders/_c/zt6lfr1d5035q1mgpglpn65h0000gn/T/c6ee5edfd08392ddacd9c7e26db75aff/Kapture 2026-05-14 at 10.19.21.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+(I did a YouTube video instead because I had a lot of technical difficulties trying to upload and use a GIF in my README.)
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with Kap
+https://youtu.be/M3mpVt6fDfQ
 
 ## Notes
 
